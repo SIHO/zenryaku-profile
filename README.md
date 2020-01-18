@@ -29,7 +29,7 @@
 
 ### 言語
 - C#
-- C言語
+- C
 - VBScript
 - JavaScript
 - PHP
